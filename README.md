@@ -301,4 +301,6 @@ The following distinctions are important:
 
 ProcessMonitor aims to provide a practical process-monitoring and forensic acquisition workflow, combining Python application development with Rust systems programming and Windows internals.
 
-**Understand systems. Build reliable tools. Preserve evidence integrity.**
+## Author
+
+**Aminszn**
