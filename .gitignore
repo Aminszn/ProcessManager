@@ -1,0 +1,42 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+.env.*
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Generated data
+data/*
+!data/.gitkeep
+
+# Acquired forensic evidence
+evidence/*
+!evidence/.gitkeep
+
+# IDE
+.vscode/
+.idea/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+#Rust memory Target
+rust_memory/target/
+# Rust build artifacts
+/rust_memory/target/

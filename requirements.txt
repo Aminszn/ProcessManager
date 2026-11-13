@@ -1,0 +1,5 @@
+psutil
+rich
+matplotlib
+pytest
+pyperclip
